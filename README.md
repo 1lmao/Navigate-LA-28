@@ -46,10 +46,10 @@
 
 | Group Member      | Contribution                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
-| Aditya Gambhir    | Focused on getting queries to work and providing information for the report. |
-| Faizaan Muzawar    | Focused on integrating the queries with the backend and building the UI for all the functions  |
-| Ajit Singh     | Focused on writing queries, making flow diagrams and initial ideation and also solving dependencies issues for some tasks.              |
-| Samara Miramontes     | Focused on writing reports, helping with queries, and other general tasks.            |
+| Aditya     | Focused on getting queries to work and providing information for the report. |
+| Faizaan     | Focused on integrating the queries with the backend and building the UI for all the functions  |
+| Ajit      | Focused on writing queries, making flow diagrams and initial ideation and also solving dependencies issues for some tasks.              |
+| Samara      | Focused on writing reports, helping with queries, and other general tasks.            |
 
 ---
 
