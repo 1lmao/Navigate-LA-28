@@ -7,10 +7,10 @@
 
 | Name            | Email                       | Student ID  |
 |------------------|-----------------------------|-------------|
-| Aditya Gambhir   | agamb031@ucr.edu        | 862466997   |
-| Faizaan Muzawar  | mmuza004@ucr.edu        | 862467277   |
-| Ajit Singh       | asing349@ucr.edu       | 862465889   |
-| Samara Miramontes| smira009@ucr.edu        | 862059976   |
+| Aditya    |         |    |
+| Faizaan   |         |    |
+| Ajit        |        |    |
+| Samara |         |    |
 ---
 
 ## Table of Contents
